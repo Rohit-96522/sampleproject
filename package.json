@@ -1,0 +1,24 @@
+{
+  "name": "sampleproject",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Rohit-96522/sampleproject#readme",
+  "bugs": {
+    "url": "https://github.com/Rohit-96522/sampleproject/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohit-96522/sampleproject.git"
+  },
+  "license": "ISC",
+  "author": "PONNANA ROHIT",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.6.0"
+  }
+}
